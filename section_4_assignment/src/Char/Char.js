@@ -5,7 +5,7 @@ const char = (props) => {
   const { character, clicked } = props;
   return (
     <div className="char" onClick={clicked}>
-      {props.character}
+      {character}
     </div>
   );
 };

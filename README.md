@@ -202,4 +202,6 @@ deletePersonHandler = (personIndex) => {
 
 The key prop is an important property we should add when rendering lists of data. It is a default property React expects to find. This key property helps React update lists efficiently.
 
----
+We should output content conditionally.  AGAIN EVERYTHING IS JAVASCRIPT.
+
+Make use of variables.
